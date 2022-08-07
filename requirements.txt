@@ -2,3 +2,4 @@ pandas
 pickle
 streamlit
 azure-cognitiveservices-speech
+/home/appuser/venv/bin/python -m pip install --upgrade pip
