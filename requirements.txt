@@ -1,0 +1,4 @@
+pandas
+pickle
+streamlit
+azure-cognitiveservices-speech
