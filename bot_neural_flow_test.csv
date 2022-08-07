@@ -1,0 +1,8 @@
+Id,Field,Value,BackTrackId,FirstReply,NegativeFeedbackBacktrackId,NegativeFeedbackValue,DataFromBackend
+0,"Sorry, I do not understand please reply to the following query!!",,,0,,,0
+1,What is your vehicle number?,,,1,,,0
+2,"Your vehicle number is, {vehicle_number}, please confirm, Yes or No?","Yes,No",0,0,1,No,0
+3,What is the age of your car?,,,0,,,0
+4,"So, age of your car is {age}, please confirm, Yes or No?","Yes,No",0,0,3,No,1
+5,Insurance amount to be paid is {amount}.,,,0,,,0
+6,Thank You!! For your valuable feedback have a nice day. Jai Shri Raam,,,0,,,0

@@ -1,0 +1,19 @@
+Id,Field,Value,BackTrackId,FirstReply,NegativeFeedbackBacktrackId,NegativeFeedbackValue,DataFromBackend
+0,"Sorry, I do not understand please reply to the following query!!",,,0,,,0
+1,"What is your preferred language, English or Hindi?","English,Hindi",0,1,,,0
+2,"So, your preferred language is {language} please confirm, Yes or No?","Yes,No",0,0,1,No,0
+3,What's your name?,,,0,,,0
+4,"Hi {name}, Please select one of the following for which you want the insurance, Car or Bike","Car,Bike",0,0,,,0
+5,What is your Email Address?,,,0,,,0
+6,"Your Email Address is, {email}, please confirm, Yes or No?","Yes,No",0,0,5,No,0
+7,What is your Phone Number?,,,0,,,0
+8,"Your Phone Number is, {phone}, please confirm, Yes or No?","Yes,No",0,0,7,No,0
+9,What is your vehicle number?,,,0,,,0
+10,"Your vehicle number is, {vehicle_number}, please confirm, Yes or No?","Yes,No",0,0,9,No,0
+11,What is the age of your car?,,,0,,,0
+12,"So, age of your car is {age}, please confirm, Yes or No?","Yes,No",0,0,11,No,0
+13,"Did you took last claim, please confirm, Yes or No?","Yes,No",,0,14,No,0
+14,When is your insurance expiring?,,,0,,,0
+15,"Is your Insurance expiring on {expiring_date}, please confirm, Yes or No?","Yes,No",,0,14,No,1
+16,Insurance amount to be paid is {amount}.,,,0,,,0
+17,Thank You!! For your valuable feedback have a nice day. Jai Shri Raam,,,0,,,0
